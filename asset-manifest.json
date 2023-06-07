@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/travel-journal-armenia/static/css/main.4fb5d4d0.css",
+    "main.js": "/travel-journal-armenia/static/js/main.5405ab14.js",
+    "index.html": "/travel-journal-armenia/index.html",
+    "static/media/pin.svg": "/travel-journal-armenia/static/media/pin.b365fafca3814c5047f2042c428aab75.svg",
+    "main.4fb5d4d0.css.map": "/travel-journal-armenia/static/css/main.4fb5d4d0.css.map",
+    "main.5405ab14.js.map": "/travel-journal-armenia/static/js/main.5405ab14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb5d4d0.css",
+    "static/js/main.5405ab14.js"
+  ]
+}
